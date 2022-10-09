@@ -17,4 +17,4 @@ package-lock.JSON
 README.MD
 ```
 
-Note. This project use `Bootstrap v5.2.0`, It does not support any version of IE, including IE 11.
+Note. This project is based on `Bootstrap v5.2.0`, which does not support any version of IE, including IE 11
